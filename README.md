@@ -13,6 +13,6 @@ A continuación, una breve descripción del contenido del repositorio:
   - ***randomwalk.py*** grafica una caminata *totalmente* aleatoria.
   - ***metropolisMedel.ipynb*** implementa un MCMC Metropolis-Hastings para el proceso aleatorio de varios 
   lanzamientos de monedas, genera varias cadenas y las grafica para verificar la convergencia del método. 
-  - ***caminantesNoHayCamino.ipynb*** es una notebook que contiene el código para graficar los caminantes seudo-aleatorios 
+  - ***caminantesNoHayCamino.ipynb*** es una notebook que grafica la ruta de los caminantes seudo-aleatorios 
   trazando las regiones de confianza. Se utiliza un MCMC Metropolis-Hastings para la estimación de parámetros 
-  de una distribución 3D introducida en el código. 
+  de una distribución dada en el código. 
