@@ -25,7 +25,7 @@ def riemannplot(f, a, b, ra, rb, n):
     
     plt.title('Suma de Riemann por la izquierde de f(x)')
     plt.figtext(0.1,-0.05, "Suma de Riemann: %.5f " %(riemann_sum), color='b')
-    plt.savefig('riemannmedel.png')
+    plt.savefig('riemann.png')
     plt.show()
 
 
