@@ -9,10 +9,10 @@ se encuentre disponible al público.
 A continuación, una breve descripción del contenido del repositorio: 
 
   - ***sumariemann.py*** permite calcular una integral por el método de sumas de Riemann y graficar la respectiva representación 
-  (***riemannmedel.png***). Este mismo código se incluye en el notebook ***SumasRiemannGrandesNumeros.ipynb***, mismo que incluye       también el cálculo de la integral por medio de la ley de los grandes números.
+  (***riemann.png***). Este mismo código se incluye en el notebook ***SumasRiemannGrandesNumeros.ipynb***, mismo que incluye       también el cálculo de la integral por medio de la ley de los grandes números.
   - ***randomwalk.py*** grafica una caminata *totalmente* aleatoria.
-  - ***metropolisMedel.ipynb*** implementa un MCMC Metropolis-Hastings para el proceso aleatorio de varios 
+  - ***metropolisHastings.ipynb*** implementa un MCMC Metropolis-Hastings para el proceso aleatorio de varios 
   lanzamientos de monedas, genera varias cadenas y las grafica para verificar la convergencia del método. 
-  - ***caminantesNoHayCamino.ipynb*** es una notebook que grafica la ruta de los caminantes seudo-aleatorios 
+  - ***caminantes.ipynb*** es una notebook que grafica la ruta de los caminantes seudo-aleatorios 
   trazando las regiones de confianza. Se utiliza un MCMC Metropolis-Hastings para la estimación de parámetros 
   de una distribución dada en el código. 
