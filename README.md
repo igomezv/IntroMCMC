@@ -1,5 +1,5 @@
 # IntroMCMC
-Este repositorio incluye pequeños scripts y notebooks utilizadas para generar las gráficas del preprint
+Este repositorio incluye pequeños scripts y notebooks utilizados para generar las gráficas del preprint
 ***Método de Monte Carlo vía Cadenas de Markov: brevísima introducción***, a cargo de 
 *Ricardo Medel Esquive*l (IPN), *Isidro Gómez Vargas* (IPN), *J. Alberto Vazquez* (UNAM) y *Ricardo García Salcedo* (IPN). 
 El artículo 
