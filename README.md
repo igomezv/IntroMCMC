@@ -15,3 +15,4 @@ A continuación, una breve descripción del contenido del repositorio:
   - ***caminantes.ipynb*** es una notebook que grafica la ruta de los caminantes seudo-aleatorios 
   trazando las regiones de confianza. Se utiliza un MCMC Metropolis-Hastings para la estimación de parámetros 
   de una distribución dada en el código. 
+ - ***EjemploMCMC.ipynb*** es una notebook que ajusta un conjunto de datos sintéticos a un modelo lineal mediante una simulación MCMC.
