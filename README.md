@@ -1,10 +1,9 @@
 # IntroMCMC
-Este repositorio incluye pequeños scripts y notebooks utilizados para generar las gráficas del artículo
-***An introduction to Markov Chain Monte Carlo***, a cargo de 
-Ricardo Medel Esquivel (IPN), Isidro Gómez Vargas (IPN), J. Alberto Vazquez (UNAM) y Ricardo García Salcedo (IPN). 
+Este repositorio incluye pequeños scripts y notebooks utilizados para generar las gráficas del artículo:
 
-El artículo tiene una orientación didáctica para presentar los fundamentos de los métodos MCMC. Se espera que en breve
-se encuentre disponible al público.
+Medel Esquivel, R., Gómez-Vargas, I., Vázquez, JA and García Salcedo, R. (2021) **An introduction to Markov Chain Monte Carlo**. *Boletín de Estadística e Investigación Operativa*, 37(1), 47-74.
+
+El artículo tiene una orientación didáctica para presentar los fundamentos de los métodos MCMC.
 
 A continuación, una breve descripción del contenido del repositorio: 
 
