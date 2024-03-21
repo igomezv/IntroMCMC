@@ -1,19 +1,38 @@
+# An introduction to Markov Chain Monte Carlo.
+
 # IntroMCMC
-Este repositorio incluye pequeños scripts y notebooks utilizados para generar las gráficas del artículo:
 
-	Medel Esquivel, R., Gómez-Vargas, I., Vázquez, JA and García Salcedo, R. (2021) An introduction to Markov Chain Monte Carlo. *Boletín de Estadística e Investigación Operativa*, 37(1), 47-74.
+Este repositorio contiene scripts y notebooks diseñados para generar las gráficas presentadas en el artículo:
 
-Si lo consideras pertinente, por favor cíta el trabajo. Se puede descargar [aquí](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo).
+	Medel Esquivel, R., Gómez-Vargas, I., Vázquez, JA, y García Salcedo, R. (2021). Una introducción a Markov Chain Monte Carlo. *Boletín de Estadística e Investigación Operativa*, 37(1), 47-74.
 
-El artículo tiene una orientación didáctica para presentar los fundamentos de los métodos MCMC.
+Si este repositorio te resulta útil, considera citar nuestro trabajo. El artículo está disponible para su descarga [aquí](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo).
 
-A continuación, una breve descripción del contenido del repositorio: 
+El propósito del artículo es ofrecer una introducción didáctica a los fundamentos de los métodos de Cadena de Markov Monte Carlo (MCMC).
 
-  - ***sumariemann.py*** permite calcular una integral por el método de sumas de Riemann. Este mismo código se incluye en el notebook ***SumasRiemannGrandesNumeros.ipynb***, mismo que también incluye el cálculo de una integral por medio de la ley de los grandes números.
-  - ***randomwalk.py*** grafica una caminata *totalmente* aleatoria.
-  - ***metropolisHastings.ipynb*** implementa un MCMC Metropolis-Hastings para el proceso aleatorio de varios 
-  lanzamientos de monedas, genera varias cadenas y las grafica para verificar la convergencia del método. 
-  - ***caminantes.ipynb*** es una notebook que grafica la ruta de los caminantes seudo-aleatorios 
-  trazando las regiones de confianza. Se utiliza un MCMC Metropolis-Hastings para la estimación de parámetros 
-  de una distribución dada en el código. 
- - ***EjemploMCMC.ipynb*** es una notebook que ajusta un conjunto de datos sintéticos a un modelo lineal mediante una simulación MCMC.
+## Contenido del Repositorio
+
+- **sumariemann.py**: Script para calcular integrales utilizando el método de sumas de Riemann. Este código también se encuentra en el notebook **SumasRiemannGrandesNumeros.ipynb**, que adicionalmente incluye el cálculo de integrales mediante la ley de los grandes números.
+- **randomwalk.py**: Script para graficar una caminata aleatoria.
+- **metropolisHastings.ipynb**: Notebook que implementa un MCMC Metropolis-Hastings para simular varios lanzamientos de moneda, generando múltiples cadenas y graficando sus convergencias.
+- **caminantes.ipynb**: Notebook que muestra la trayectoria de caminantes pseudoaleatorios y traza las regiones de confianza. Se utiliza un MCMC Metropolis-Hastings para la estimación de parámetros de una distribución específica.
+- **EjemploMCMC.ipynb**: Notebook para ajustar un conjunto de datos sintéticos a un modelo lineal mediante simulación MCMC.
+
+## Cómo Citar
+
+Si utilizas contenido de este repositorio, por favor cita el artículo de la siguiente manera:
+
+```bibtex
+@article{esquivel2021introduction,
+  title={An introduction to markov chain monte carlo},
+  author={Medel Esquivel, Ricardo, and G{\'o}mez-Vargas, Isidro and V{\'a}zquez, J Alberto and Salcedo, Ricardo Garc{\'\i}a},
+  journal={Bolet{\'\i}n de Estad{\'\i}stica e Investigaci{\'o}n Operativa},
+  volume={1},
+  number={37},
+  pages={47--74},
+  year={2021},
+  DOI={DOI: 10.13140/RG.2.2.15462.43849}
+}
+```
+
+
