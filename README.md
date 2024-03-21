@@ -1,7 +1,5 @@
 # An introduction to Markov Chain Monte Carlo.
 
-# IntroMCMC
-
 Este repositorio contiene scripts y notebooks diseñados para generar las gráficas presentadas en el artículo:
 
 	Medel Esquivel, R., Gómez-Vargas, I., Vázquez, JA, y García Salcedo, R. (2021). Una introducción a Markov Chain Monte Carlo. *Boletín de Estadística e Investigación Operativa*, 37(1), 47-74.
