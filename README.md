@@ -6,7 +6,7 @@ Este repositorio contiene scripts y notebooks diseñados para generar las gráfi
 
 	Medel Esquivel, R., Gómez-Vargas, I., Vázquez, JA, y García Salcedo, R. (2021). Una introducción a Markov Chain Monte Carlo. *Boletín de Estadística e Investigación Operativa*, 37(1), 47-74.
 
-Si este repositorio te resulta útil, considera citar nuestro trabajo. El artículo está disponible para su descarga [aquí](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo).
+El artículo está disponible para su descarga [aquí](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo).
 
 El propósito del artículo es ofrecer una introducción didáctica a los fundamentos de los métodos de Cadena de Markov Monte Carlo (MCMC).
 
